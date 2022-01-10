@@ -1,6 +1,6 @@
 # _Portfolio\_Landing\_Page_
 
-#### By _**S-Espinet**_
+#### By _**S-Espinet and k9w**_
 
 #### _Webpage about creator (S-Espinet)_
 
@@ -8,7 +8,6 @@
 
 * _html_
 * _css_
-* _bootstrap_
 
 ## Description
 
@@ -20,10 +19,10 @@ _This is a webpage that will serve as an introduction to a portfolio of my work,
 
 ## Setup/Installation Requirements
 
-* _navigate to github.com/S-Espinet in browser_
-* _select repository (Portfolio-Profile-Page)_
-* _click `Code` button and select desired security protocol_
-* _run git clone in terminal into desired directory_
+* _navigate to <https://github.com/S-Espinet> in browser_
+* _select repository (Calculator)_
+* _click `Code` button and select desired security protocol: SSH or HTTPS_
+* _run '`git clone` in terminal into desired directory_
 * _navigate to top level of directory_
 * _open page in browser_
 
@@ -33,6 +32,6 @@ _This is a webpage that will serve as an introduction to a portfolio of my work,
 
 ## License
 
-_[MIT](https://en.wikipedia.org/wiki/MIT_License)_
+_[ISC](https://choosealicense.com/licenses/isc)_
 
-Copyright (c) _2022_ _S-Espinet_
+Copyright (c) _2022 S-Espinet and k9w_
